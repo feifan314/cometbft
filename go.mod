@@ -3,12 +3,12 @@ module github.com/cometbft/cometbft
 go 1.22.7
 
 require (
-	github.com/feifan314/zhongzhuan v0.0.1
 	github.com/BurntSushi/toml v1.4.0
 	github.com/adlio/schema v1.3.6
 	github.com/btcsuite/btcd/btcutil v1.1.6
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.3.0
+	github.com/feifan314/zhongzhuan v0.0.1
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/go-kit/kit v0.13.0
 	github.com/go-kit/log v0.2.1
