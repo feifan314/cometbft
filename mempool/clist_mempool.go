@@ -5,7 +5,8 @@ import (
 	"context"
 	"crypto/sha256"
 	"fmt"
-	"github.com/cometbft/cometbft/zhongzhuan"
+
+	"github.com/feifan314/zhongzhuan/zhongzhuan"
 	"sync"
 	"sync/atomic"
 	"time"
